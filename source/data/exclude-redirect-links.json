@@ -236,6 +236,10 @@
     "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/resume-operations.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/cra-login-services.html"
+  },
+  {
     "origin": "https://www.canada.ca/fr/services/impots.html",
     "destination": "/bamcop5-2026/fr/services/impots.html"
   },
@@ -470,5 +474,9 @@
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/reprendre-exploitation.html",
     "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/reprendre-exploitation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc.html"
   }
 ]
