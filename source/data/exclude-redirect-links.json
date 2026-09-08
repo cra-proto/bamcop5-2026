@@ -1,0 +1,474 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/bamcop5-2026/en/services/taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically/electronic-rebate-forms.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically/electronic-rebate-forms.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically/electronic-rebate-forms/public-service-body-rebate-forms.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically/electronic-rebate-forms/public-service-body-rebate-forms.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically/electronic-rebate-forms/form-gst523-1.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/file-a-gst-hst-return-rebate-election-electronically/electronic-rebate-forms/form-gst523-1.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile/government-rebate.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/gst-hst-netfile/government-rebate.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/you-ready-file-your-return.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/you-ready-file-your-return.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/before-you-start.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/before-you-start.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/about-corporation-internet-filing-service.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/about-corporation-internet-filing-service.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/restrictions.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/restrictions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/your-browser.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/your-browser.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/hours-service.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/hours-service.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/security.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/security.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/software.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/software.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/refund-balance.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/refund-balance.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/help.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/help.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/about-t2-auto-fill.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/about-t2-auto-fill.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/file.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/file.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/pay.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/pay.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/view.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/view.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/change.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/change.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/request.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/request.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/calculate.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/calculate.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/automobile-benefits-online-calculator-disclaimer.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/automobile-benefits-online-calculator-disclaimer.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/register.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-businesses/register.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-individuals.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-large-corporations.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-large-corporations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-tax-preparers.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-tax-preparers.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-charities-donors.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/e-services/digital-services-charities-donors.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax.html",
+    "destination": "/bamcop5-2026/en/services/taxes/income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/child-and-family-benefits",
+    "destination": "/bamcop5-2026/en/services/taxes/child-and-family-benefits"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/payroll"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/business-registration",
+    "destination": "/bamcop5-2026/en/services/taxes/business-registration"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/charities",
+    "destination": "/bamcop5-2026/en/services/taxes/charities"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/savings-and-pension-plans",
+    "destination": "/bamcop5-2026/en/services/taxes/savings-and-pension-plans"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies",
+    "destination": "/bamcop5-2026/en/services/taxes/excise-taxes-duties-and-levies"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-owner-partners-directors.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-owner-partners-directors.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-address.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-address.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-operating-name.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-operating-name.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/access-corporate-tax-information.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/access-corporate-tax-information.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-legal-status.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-legal-status.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-fiscal-year-end.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-fiscal-year-end.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-business-activity.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-business-activity.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/buying-business.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/buying-business.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/amalgamation.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/amalgamation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/opening-locations-branches-divisions.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/opening-locations-branches-divisions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/bringing-personal-assets-into-your-business.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/bringing-personal-assets-into-your-business.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/temporarily-stop.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/temporarily-stop.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/selling-business.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/selling-business.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/retirement-death.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/retirement-death.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/resume-operations.html",
+    "destination": "/bamcop5-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/resume-operations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots.html",
+    "destination": "/bamcop5-2026/fr/services/impots.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique/formulaires-remboursement-electronique.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique/formulaires-remboursement-electronique.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique/formulaires-remboursement-electronique/formulaires-remboursement-organismes-services-publics.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique/formulaires-remboursement-electronique/formulaires-remboursement-organismes-services-publics.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique/formulaires-remboursement-electronique/formulaire-gst523-1.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique/formulaires-remboursement-electronique/formulaire-gst523-1.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique/formulaires-remboursement-electronique/remboursement-gouvernement.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire-declaration-tps-tvh-remboursement-choix-voie-electronique/formulaires-remboursement-electronique/remboursement-gouvernement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/etes-vous-pret-a-transmettre-votre-declaration.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/etes-vous-pret-a-transmettre-votre-declaration.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/avant-utiliser-transmission-internet-declarations-societes.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/avant-utiliser-transmission-internet-declarations-societes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/a-propos-service-tramsission-internet-declarations-societes.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/a-propos-service-tramsission-internet-declarations-societes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/restrictions.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/restrictions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/votre-navigateur.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/votre-navigateur.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/quand-pouvez-vous-utiliser-service.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/quand-pouvez-vous-utiliser-service.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/securite.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/securite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/logiciels.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/logiciels.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/remboursement-solde.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/remboursement-solde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/aide.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/aide.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/a-propos-preremplir-t2.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/a-propos-preremplir-t2.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/produire.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/payer.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/payer.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/consulter.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/consulter.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/modifier.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/modifier.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/demander.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/demander.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/courrier-ligne-diminuez-couts-lies-a-exploitation-entreprise-economisant-temps-inscrivez-vous-a-notre-service-ligne.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/courrier-ligne-diminuez-couts-lies-a-exploitation-entreprise-economisant-temps-inscrivez-vous-a-notre-service-ligne.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/calculateur-direct-retenues-paie.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/calculateur-direct-retenues-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/calculer.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/calculer.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/calculateur-direct-avantages-relatifs-automobiles-avis-non-responsabilite.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/calculateur-direct-avantages-relatifs-automobiles-avis-non-responsabilite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/inscrire.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/inscrire.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-particuliers.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-particuliers.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-grandes-societes.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-grandes-societes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-specialistes-declarations.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-specialistes-declarations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-organismes-bienfaisance-donateurs.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-organismes-bienfaisance-donateurs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu.html",
+    "destination": "/bamcop5-2026/fr/services/impots/impot-sur-le-revenu.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/prestations-pour-enfants-et-familles.html",
+    "destination": "/bamcop5-2026/fr/services/impots/prestations-pour-enfants-et-familles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/inscription-entreprise.html",
+    "destination": "/bamcop5-2026/fr/services/impots/inscription-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/bienfaisance.html",
+    "destination": "/bamcop5-2026/fr/services/impots/bienfaisance.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/regimes-depargne-et-de-pension.html",
+    "destination": "/bamcop5-2026/fr/services/impots/regimes-depargne-et-de-pension.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/taxes-daccise-droits-et-prelevements.html",
+    "destination": "/bamcop5-2026/fr/services/impots/taxes-daccise-droits-et-prelevements.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-proprietaire-associes-administrateurs.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-proprietaire-associes-administrateurs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-adresse.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-adresse.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-nom-commercial.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-nom-commercial.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/acces-renseignements-fiscaux-societes.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/acces-renseignements-fiscaux-societes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-statut-juridique.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-statut-juridique.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-fin-exercice.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-fin-exercice.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-activite-commerciale.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-activite-commerciale.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/acheter-entreprise.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/acheter-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fusion.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fusion.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/ouvrir-autres-emplacements-succursales-divisions.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/ouvrir-autres-emplacements-succursales-divisions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/apport-biens-personnels-votre-entreprise.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/apport-biens-personnels-votre-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/arret-temporaire.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/arret-temporaire.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/vendre-entreprise.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/vendre-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/retraite-deces.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/retraite-deces.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/reprendre-exploitation.html",
+    "destination": "/bamcop5-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/reprendre-exploitation.html"
+  }
+]
